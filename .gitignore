@@ -1,0 +1,5 @@
+.idea
+.python-version
+*.egg*
+env
+*__pycache__*
